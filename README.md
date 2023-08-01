@@ -1,4 +1,4 @@
-# Web_Testing---Selenium
+# Web_Testing---Selenium IDE
 
 <h4><h2>Background to the Problem</h2>
 In today's digital age, Facebook is a popular social media platform with billions of users 
